@@ -1,0 +1,9 @@
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\bin\Debug\tamrin5.sortNumbers.exe.config
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\bin\Debug\tamrin5.sortNumbers.exe
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\bin\Debug\tamrin5.sortNumbers.pdb
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.csprojResolveAssemblyReference.cache
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.Form1.resources
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.Properties.Resources.resources
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.csproj.GenerateResource.Cache
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.exe
+E:\university\c#\my cods\tamrin5.sortNumbers\tamrin5.sortNumbers\obj\Debug\tamrin5.sortNumbers.pdb
